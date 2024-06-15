@@ -1,0 +1,14 @@
+C:\Users\Danny\source\repos\DanielBastardoAnalizadordeTexto\DanielBastardoAnalizadordeTexto\bin\Debug\net8.0\DanielBastardoAnalizadordeTexto.exe
+C:\Users\Danny\source\repos\DanielBastardoAnalizadordeTexto\DanielBastardoAnalizadordeTexto\bin\Debug\net8.0\DanielBastardoAnalizadordeTexto.deps.json
+C:\Users\Danny\source\repos\DanielBastardoAnalizadordeTexto\DanielBastardoAnalizadordeTexto\bin\Debug\net8.0\DanielBastardoAnalizadordeTexto.runtimeconfig.json
+C:\Users\Danny\source\repos\DanielBastardoAnalizadordeTexto\DanielBastardoAnalizadordeTexto\bin\Debug\net8.0\DanielBastardoAnalizadordeTexto.dll
+C:\Users\Danny\source\repos\DanielBastardoAnalizadordeTexto\DanielBastardoAnalizadordeTexto\bin\Debug\net8.0\DanielBastardoAnalizadordeTexto.pdb
+C:\Users\Danny\source\repos\DanielBastardoAnalizadordeTexto\DanielBastardoAnalizadordeTexto\obj\Debug\net8.0\DanielBastardoAnalizadordeTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\source\repos\DanielBastardoAnalizadordeTexto\DanielBastardoAnalizadordeTexto\obj\Debug\net8.0\DanielBastardoAnalizadordeTexto.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\DanielBastardoAnalizadordeTexto\DanielBastardoAnalizadordeTexto\obj\Debug\net8.0\DanielBastardoAnalizadordeTexto.AssemblyInfo.cs
+C:\Users\Danny\source\repos\DanielBastardoAnalizadordeTexto\DanielBastardoAnalizadordeTexto\obj\Debug\net8.0\DanielBastardoAnalizadordeTexto.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\DanielBastardoAnalizadordeTexto\DanielBastardoAnalizadordeTexto\obj\Debug\net8.0\DanielBastardoAnalizadordeTexto.dll
+C:\Users\Danny\source\repos\DanielBastardoAnalizadordeTexto\DanielBastardoAnalizadordeTexto\obj\Debug\net8.0\refint\DanielBastardoAnalizadordeTexto.dll
+C:\Users\Danny\source\repos\DanielBastardoAnalizadordeTexto\DanielBastardoAnalizadordeTexto\obj\Debug\net8.0\DanielBastardoAnalizadordeTexto.pdb
+C:\Users\Danny\source\repos\DanielBastardoAnalizadordeTexto\DanielBastardoAnalizadordeTexto\obj\Debug\net8.0\DanielBastardoAnalizadordeTexto.genruntimeconfig.cache
+C:\Users\Danny\source\repos\DanielBastardoAnalizadordeTexto\DanielBastardoAnalizadordeTexto\obj\Debug\net8.0\ref\DanielBastardoAnalizadordeTexto.dll
